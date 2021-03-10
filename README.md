@@ -1,3 +1,5 @@
+_This is an old version of Powercord and should not be used. It is only maintained to keep the GPL copy of Powercord code._
+
 # Powercord
 Powercord is a lightweight client mod focused on simplicity and performance.  
 As of right now, Powercord is in *very* early stages of development, so feel free to join [this server](https://discord.gg/5eSH46g) for any questions.
